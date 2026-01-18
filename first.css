@@ -1,0 +1,151 @@
+
+ 
+.manrope-normal {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.tex-primary{
+    color: #FD6E0A;
+}
+.dark-2{
+    color: #474747;
+}
+.btn-primary{
+    background: #FD6E0A;
+    font-weight: bold;
+    color: white;
+    padding: 18px 35px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+}
+.secondary-bg{
+    background-color: #FFF8F3;
+}
+.header{
+    background-image: url('./img/Screenshot 2026-01-17 152519.png');
+    background-repeat: no-repeat;
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 90px;
+}
+.text-center{
+    text-align: center;
+}
+.font{
+    font-weight: bolder;
+    font-size: 45px;
+    margin-left: 103px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav ul li{
+    list-style: none;
+    margin-right: 51px;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 35px 0 200px;
+}
+.banner-content{
+    max-width: 580px;
+}
+nav li a{
+    text-decoration: none;
+    font-size: 20px;
+}
+.banner-greeting{
+    font-size: 45px;
+    font-weight: 600;
+}
+.banner-tittel{
+    font-weight: bold;
+    font-size: 85px;
+}
+.banner-pic{
+    width: 580px;
+    background-color: #FFF8F3  ;
+}
+.section-title{
+    font-weight: bold;
+    font-size: 35px;
+    color: #181818;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+main section{
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+.about{
+    font-size: 18px;
+    color: #757575;
+    padding: 130px 150px;
+    text-align: center;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
+.item-description{
+    font-weight: bold;
+}
+.skills-container{
+    display: flex;
+    gap: 24PX;
+}
+.skill{
+    padding: 30PX;
+    box-shadow: 0PX 6PX 50PX  rgba(0, 0, 0, 0.121);
+}
+.resume-containar{
+    display: flex;
+    gap: 24px;
+    margin-bottom: 20px;
+}
+.experience-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+}
+.experience-description ,.experience-sub-title {
+    color: #757575;
+}
+.resume-hr{
+    margin: 30px 5px;
+}
+.resume-Download-CV{
+    margin-top: 50px;
+}
+footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 100px;
+}
+.footer-column{
+    width: 50%;
+
+}
+footer input[type="text"], footer input[type="email"],footer textarea{
+    height: 60px;
+    border-radius: 5px;
+    border: none;
+    background-color: white;
+    color: ;
+    width: 100%;
+    padding: 10px 20px ;
+    margin-bottom: 24px;
+}
+
+
+
+
